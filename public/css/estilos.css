@@ -1,0 +1,12 @@
+body {
+    background-color: #EAEAEA;
+}
+
+.contenedor {
+    border:1px solid #dedede;
+    background-color: #fff;    
+}
+
+.float-right {
+    float: right;
+}
